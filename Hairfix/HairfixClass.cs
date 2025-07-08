@@ -3,7 +3,7 @@ using MelonLoader;
 using UnityEngine;
 using Hairfix;
 
-[assembly: MelonInfo(typeof(HairfixClass),"HairFix", "1.0.0", "blankochan")]
+[assembly: MelonInfo(typeof(HairfixClass),"HairFix", "1.0.1", "blankochan")]
 [assembly: MelonGame("Buckethead Entertainment", "RUMBLE")]
 [assembly: MelonColor(255, 255, 170, 238)] // #FAE pink :3
 
